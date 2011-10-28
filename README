@@ -1,0 +1,16 @@
+PROJECT TITLE: London Underground Journey Planner
+AUTHOR: Sachin Pande
+USER INSTRUCTIONS: 
+Compiling and Running the program:
+
+From Command Line or Terminal:
+
+To compile the program make sure you have the Java JDK. Using the Command Line or Terminal change directory to the one containing the program, and type javac *.java. To run the program still in the same directory type java routeFinderUI.
+
+Running the program without Command Line or Terminal:
+Browse to the directory which contains the program. Make sure u have Java Runtime Environment installed. Open the RouteFinder.jar with the Java Runtime Environment.
+
+Using the program:
+After running the program from the above steps, a window will open, in which you are able to enter stations and get the route between those stations. On the right hand side of the Graphics User Interface there are two input boxes which is where the Station names should be entered. Press the Find Route button to display the route on the left hand side area. Pressing the Reset button will reset the input boxes and clear the left hand side area. 
+
+Notes: The program does not include the London Overground or DLR lines.
